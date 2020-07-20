@@ -1,2 +1,2 @@
 # eth-NGToken
- Basic ERC 20 token with Multi-sig wallet deployed on Ropsten testnet
+ Basic ERC 20 token deployed on Ropsten testnet
